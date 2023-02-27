@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/Library
+UserSettings/Layouts/default-2021.dwlt
+UserSettings/EditorUserSettings.asset
+UnityEditor.UI.csproj
+UnityEngine.UI.csproj
+.vsconfig
+portowanie.sln
